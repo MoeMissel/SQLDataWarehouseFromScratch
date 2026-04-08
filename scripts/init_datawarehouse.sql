@@ -1,6 +1,7 @@
 -- Data With Baraa SQL Data Warehouse from Scratch
 -- initialise the data warehouse project
 -- creates 3 schemas and a table
+
 CREATE DATABASE sandbox_datawarehouse
 
 -- Bronze Schema
